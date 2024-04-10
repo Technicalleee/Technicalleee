@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/leon-queens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leon-queens" height="30" width="40" /></a>
 </p>
 
- To collaborate on awesome project or just to chat, just shoot me a message! 🚀
+ To collaborate on an awesome project or just to chat, just shoot me a message! 🚀
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
