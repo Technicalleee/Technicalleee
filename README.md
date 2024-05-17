@@ -3,7 +3,7 @@
 ## Data Scientist focusing on ***Machine Learning*** 💯
 
 - 🧠 Succesfully completed the **Data Science & AI** bootcamp at Le Wagon
-- 🎓 Business Background
+- 👨🏼‍🎓 Business Background
 - 🎓 Microsoft Certified: **Azure Data Scientist Associate**
 - 👨‍💻 Experience as Product Manager at a data-centric consumer electronics company
 
