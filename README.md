@@ -4,6 +4,7 @@
 
 - 🧠 Succesfully completed the **Data Science & AI** bootcamp at Le Wagon
 - 🎓 Business Background
+- 🎓 Microsoft Certified: **Azure Data Scientist Associate**
 - 👨‍💻 Experience as Product Manager at a data-centric consumer electronics company
 
 ## 
@@ -50,6 +51,9 @@
   </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" height="40"/>
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/640px-Microsoft_Azure.svg.png" alt="azure"  height="40"/>
   </a>
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi"  height="40"/>
